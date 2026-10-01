@@ -2,7 +2,7 @@ using './main.bicep'
 
 // General Parameters
 param parLocations = [
-  'uksouth'
+  'swedencentral'
 ]
 param parGlobalResourceLock = {
   name: 'GlobalResourceLock'
